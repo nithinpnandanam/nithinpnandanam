@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Nithin Prakash</h1>
 <h3 align="center">A Passionate software engineer with a focus on building efficient, scalable web applications.</h3>
 
-- 🔭 I’m currently working at <a href="https://www.qburst.com/en-in/" >**Qburst** </a> as a software engineer
-- 📫 How to reach me **nithinpnandanam@gmail.com**
+🧑‍💻 I’m currently working at <a href="https://www.qburst.com/en-in/" >**Qburst** </a> as a software engineer
+<br/>
+📫 How to reach me **nithinpnandanam@gmail.com**
+<br/>
+🎓 Studied at TKM College Of Engineering Kollam
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
