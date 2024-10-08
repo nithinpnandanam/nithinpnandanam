@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Nithin Prakash</h1>
-<h3 align="center">A Passionate software engineer with a focus on building efficient, scalable web applications.</h3>
+<h1 align="left">Hi 👋, I'm Nithin Prakash</h1>
+<h3 align="left">A Passionate software engineer with a focus on building efficient, scalable web applications.</h3>
 
 🧑‍💻 I’m currently working at <a href="https://www.qburst.com/en-in/" >**Qburst** </a> as a software engineer
 <br/>
